@@ -25,7 +25,9 @@ public class UsuarioFacebook {
     usuario1.dataNasc = LocalDate.of(1994, 10, 22);
     usuario1.data = String.valueOf(dataNasc);
 
-    System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc);
+    System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc + "blablabla");
+    System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc + "blablabla");
+    
         
     }
 }
