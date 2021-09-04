@@ -27,6 +27,12 @@ public class UsuarioFacebook {
 
     System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc + "blablabla");
     System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc + "blablabla");
+    System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc + "blablabla");
+    System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc + "blablabla");
+    System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc + "blablabla");
+    System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc + "blablabla");
+    System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc + "blablabla");
+    System.out.println(usuario1.nome + usuario1.data + usuario1.dataNasc + "blablabla");
     
         
     }
